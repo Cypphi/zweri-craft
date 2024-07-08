@@ -1,1 +1,2 @@
-# zweri-craft
+# Zweri Craft
+Drugs in Minecraft 👍
